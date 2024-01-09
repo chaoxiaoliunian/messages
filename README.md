@@ -1,2 +1,2 @@
 # messages
-触达服务
+基于SpringBoot的触达服务
